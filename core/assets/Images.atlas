@@ -1,0 +1,230 @@
+
+Images.png
+size: 8192, 4096
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+1pergunta
+  rotate: false
+  xy: 1280, 3240
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+1respostaA
+  rotate: false
+  xy: 0, 2520
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+1respostaB
+  rotate: false
+  xy: 6400, 3240
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+1respostaC
+  rotate: false
+  xy: 0, 360
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+2Pergunta
+  rotate: false
+  xy: 1280, 2520
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+2RespostaA
+  rotate: false
+  xy: 3840, 360
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+2RespostaB
+  rotate: false
+  xy: 5120, 3240
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+2RespostaC
+  rotate: false
+  xy: 0, 1800
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+3Pergunta
+  rotate: false
+  xy: 6400, 1080
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+3RespostaA
+  rotate: false
+  xy: 1280, 360
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+3RespostaB
+  rotate: false
+  xy: 2560, 3240
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+3RespostaC
+  rotate: false
+  xy: 2560, 360
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+4Pergunta
+  rotate: false
+  xy: 0, 1080
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+4RespostaA
+  rotate: false
+  xy: 1280, 1800
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+4RespostaB
+  rotate: false
+  xy: 5120, 1800
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+4RespostaC
+  rotate: false
+  xy: 1280, 1080
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+5Pergunta
+  rotate: false
+  xy: 5120, 1080
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+5RespostaA
+  rotate: false
+  xy: 6400, 2520
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+5RespostaB
+  rotate: false
+  xy: 3840, 2520
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+5RespostaC
+  rotate: false
+  xy: 0, 3240
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+ESC
+  rotate: false
+  xy: 600, 0
+  size: 600, 360
+  orig: 600, 360
+  offset: 0, 0
+  index: -1
+PressionarEspacoInicio
+  rotate: false
+  xy: 3840, 1800
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+SpaceBar
+  rotate: false
+  xy: 0, 0
+  size: 600, 360
+  orig: 600, 360
+  offset: 0, 0
+  index: -1
+backgroundAllgame
+  rotate: false
+  xy: 3840, 1080
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+backgroundBlueAndPurple
+  rotate: false
+  xy: 2560, 1800
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+inicioImagem
+  rotate: false
+  xy: 6400, 1800
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+respostaVerdeA
+  rotate: false
+  xy: 3840, 3240
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+respostaVerdeB
+  rotate: false
+  xy: 5120, 360
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+respostaVerdeC
+  rotate: false
+  xy: 2560, 1080
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+respostaVermelhaA
+  rotate: false
+  xy: 6400, 360
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+respostaVermelhaB
+  rotate: false
+  xy: 5120, 2520
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+respostaVermelhaC
+  rotate: false
+  xy: 2560, 2520
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
